@@ -107,6 +107,18 @@ http://localhost:5000
 ![Dashboard](screenshots/dashboard.png.png)
 
 
+## Technologies Used
+
+- Python
+- Flask
+- OpenCV
+- TensorFlow Lite
+- SQLite
+- HTML
+- CSS
+- JavaScript
+- 
+
 ## Applications
 
 - Human Computer Interaction
