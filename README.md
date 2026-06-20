@@ -89,15 +89,22 @@ http://localhost:5000
 
 ### Live Emotion Detection
 
-(Add Screenshot)
+### Home Screen
 
-### Dashboard
+![Home Screen](screenshots/home.png)
 
-(Add Screenshot)
+### Live Emotion Detection
 
-### Emotion Statistics
+![Happy Detection](screenshots/happy-detection.png)
 
-(Add Screenshot)
+### Emotion History
+
+![Emotion History](screenshots/emotion-history.png)
+
+### Analytics Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
 
 ## Applications
 
