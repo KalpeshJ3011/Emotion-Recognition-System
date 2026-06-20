@@ -136,6 +136,7 @@ http://localhost:5000
 - Cloud Deployment
 - Advanced Deep Learning Models
 
+
 ## Authors
 
 - Sanjay Mayank Anil
@@ -143,6 +144,15 @@ http://localhost:5000
 - Marathe Vaibhav Dinesh
 - Patil Chaitali Subhash
 
+
 ## License
 
 MIT License
+
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python app.py 
+
