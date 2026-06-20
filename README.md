@@ -85,25 +85,26 @@ Open:
 http://localhost:5000
 ```
 
+
 ## Project Screenshots
 
-### Live Emotion Detection
+## 📸 Project Screenshots
 
-### Home Screen
+### 🏠 Home Screen
 
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.png.png)
 
-### Live Emotion Detection
+### 😀 Live Emotion Detection
 
-![Happy Detection](screenshots/happy-detection.png)
+![Happy Detection](screenshots/happy-detection.png.png)
 
-### Emotion History
+### 📈 Emotion History
 
-![Emotion History](screenshots/emotion-history.png)
+![Emotion History](screenshots/emotion-history.png.png)
 
-### Analytics Dashboard
+### 📊 Analytics Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 
 ## Applications
